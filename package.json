@@ -1,10 +1,10 @@
 {
-    "name": "@concordium/node-sdk",
+    "name": "@selikhovalexey/concordium-node-sdk",
     "version": "0.6.0",
-    "description": "Helpers for interacting with the Concordium node",
+    "description": "Helpers for interacting with the Concordium node (forked)",
     "repository": {
         "type": "git",
-        "url": "https://github.com/Concordium/concordium-node-sdk-js"
+        "url": "https://github.com/alekseyselikhov/concordium-node-sdk-js"
     },
     "author": {
         "name": "Concordium Software",

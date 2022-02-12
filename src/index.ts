@@ -5,6 +5,8 @@ import {
     getCredentialDeploymentSignDigest,
     getCredentialDeploymentTransactionHash,
     getCredentialForExistingAccountSignDigest,
+    serializeCredentialDeploymentTransactionForSubmission,
+    serializeAccountTransactionForSubmission,
 } from './serialization';
 import { sha256 } from './hash';
 
@@ -16,6 +18,8 @@ export {
     getCredentialDeploymentSignDigest,
     getCredentialDeploymentTransactionHash,
     getCredentialForExistingAccountSignDigest,
+    serializeCredentialDeploymentTransactionForSubmission,
+    serializeAccountTransactionForSubmission,
 };
 export { sha256 };
 export { CredentialRegistrationId } from './types/CredentialRegistrationId';
